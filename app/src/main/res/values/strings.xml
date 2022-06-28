@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KeltronExam</string>
+    <string-array name="departments">
+        <item>Computer Science</item>
+        <item>Microbiology</item>
+        <item>BCom</item>
+        <item>BBA</item>
+        <item>Biochemistry</item>
+    </string-array>
+</resources>
